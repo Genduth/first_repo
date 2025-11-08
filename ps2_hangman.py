@@ -1,8 +1,8 @@
 # Title:Hangman PS2
 # Name: George Warlow
 # Hours Spent: 6
-# Update: You're about to start trying to define functions. Make each function name to plan then use the pass function to avoid getting errors.
-# Date: 09/10/2025
+# Update: DONEZO
+# Date: 08/11/2025
 
 #variables
 
